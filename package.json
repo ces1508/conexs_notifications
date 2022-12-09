@@ -9,8 +9,8 @@
   "author": "ces1508",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "mysql2": "^1.6.5",
     "onesignal-node": "^2.0.1",
     "request": "^2.88.0",
